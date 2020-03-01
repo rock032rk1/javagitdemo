@@ -31,5 +31,7 @@ public class App
         System.out.println("Student Name :"+st.getName());
         System.out.println("Student Mobile No :"+st.getMobile());
         sc.close();
+        
+        System.out.println("Final Submission Done");
     }
 }
