@@ -17,5 +17,7 @@ public class App
         for(String s:slist) {
         	System.out.println(s);
         }
+        
+        System.out.println("Java Git demo Child branch of Master branch");
     }
 }
